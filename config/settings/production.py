@@ -62,7 +62,7 @@ X_FRAME_OPTIONS = 'DENY'
 # ------------------------------------------------------------------------------
 # Hosts/domain names that are valid for this site
 # See https://docs.djangoproject.com/en/dev/ref/settings/#allowed-hosts
-ALLOWED_HOSTS = env.list('DJANGO_ALLOWED_HOSTS', default=['rhumist.com', ])
+ALLOWED_HOSTS = env.list('http://rhumist.2i8v8tmduf.eu-west-1.elasticbeanstalk.com/', 'DJANGO_ALLOWED_HOSTS', default=['rhumist.com', ])
 # END SITE CONFIGURATION
 
 INSTALLED_APPS += ['gunicorn', ]
