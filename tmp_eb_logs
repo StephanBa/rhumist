@@ -1,0 +1,441 @@
+Retrieving logs...
+============= i-011aea2dcc90494a0 ==============
+-------------------------------------
+/var/log/httpd/error_log
+-------------------------------------
+[Tue Jun 06 05:56:33.144264 2017] [cgi:error] [pid 25090] [client 172.31.16.39:56658] AH02811: script not found or unable to stat: /var/www/cgi-bin/hi, referer: () { OpenVAS:; }; echo Content-Type: text/plain; echo; echo; PATH=/usr/bin:/usr/local/bin:/bin; export PATH; id;
+[Tue Jun 06 05:56:33.764122 2017] [cgi:error] [pid 25090] [client 172.31.16.39:56658] AH02811: script not found or unable to stat: /var/www/cgi-bin/hi
+[Tue Jun 06 05:56:34.383745 2017] [cgi:error] [pid 24991] [client 172.31.16.39:56662] AH02811: script not found or unable to stat: /var/www/cgi-bin/hi
+[Tue Jun 06 05:56:35.002863 2017] [cgi:error] [pid 24991] [client 172.31.16.39:56662] AH02811: script not found or unable to stat: /var/www/cgi-bin/hi
+[Tue Jun 06 05:56:35.623765 2017] [cgi:error] [pid 24991] [client 172.31.16.39:56662] AH02811: script not found or unable to stat: /var/www/cgi-bin/hi, referer: () { _; OpenVAS; } >_[$($())] {  echo Content-Type: text/plain; echo; echo; PATH=/usr/bin:/usr/local/bin:/bin; export PATH; id; }
+[Tue Jun 06 05:56:36.242770 2017] [cgi:error] [pid 24991] [client 172.31.16.39:56662] AH02811: script not found or unable to stat: /var/www/cgi-bin/hi
+[Tue Jun 06 05:56:36.863238 2017] [cgi:error] [pid 24991] [client 172.31.16.39:56662] AH02811: script not found or unable to stat: /var/www/cgi-bin/hi
+[Tue Jun 06 05:56:37.483481 2017] [cgi:error] [pid 25101] [client 172.31.16.39:56666] AH02811: script not found or unable to stat: /var/www/cgi-bin/hi
+[Tue Jun 06 05:56:38.101693 2017] [cgi:error] [pid 25101] [client 172.31.16.39:56666] AH02811: script not found or unable to stat: /var/www/cgi-bin/hi, referer: () { _; OpenVAS; } >_[$($())] {  echo Content-Type: text/plain; echo; echo; PATH=/usr/bin:/usr/local/bin:/bin; export PATH; id; }
+[Tue Jun 06 05:56:38.720645 2017] [cgi:error] [pid 25101] [client 172.31.16.39:56666] AH02811: script not found or unable to stat: /var/www/cgi-bin/hi
+[Tue Jun 06 05:56:39.339868 2017] [cgi:error] [pid 25168] [client 172.31.16.39:56676] AH02811: script not found or unable to stat: /var/www/cgi-bin/hi
+[Tue Jun 06 05:56:39.958642 2017] [:error] [pid 25168] [client 172.31.16.39:56676] Target WSGI script not found or unable to stat: /opt/python/current/app/config
+[Tue Jun 06 05:56:40.578124 2017] [:error] [pid 25168] [client 172.31.16.39:56676] Target WSGI script not found or unable to stat: /opt/python/current/app/config, referer: () { OpenVAS:; }; echo Content-Type: text/plain; echo; echo; PATH=/usr/bin:/usr/local/bin:/bin; export PATH; id;
+[Tue Jun 06 05:56:41.197548 2017] [:error] [pid 25168] [client 172.31.16.39:56676] Target WSGI script not found or unable to stat: /opt/python/current/app/config
+[Tue Jun 06 05:56:41.815472 2017] [:error] [pid 25168] [client 172.31.16.39:56676] Target WSGI script not found or unable to stat: /opt/python/current/app/config
+[Tue Jun 06 05:56:42.435256 2017] [:error] [pid 25412] [client 172.31.16.39:56678] Target WSGI script not found or unable to stat: /opt/python/current/app/config
+[Tue Jun 06 05:56:43.054256 2017] [:error] [pid 25412] [client 172.31.16.39:56678] Target WSGI script not found or unable to stat: /opt/python/current/app/config, referer: () { OpenVAS:; }; echo Content-Type: text/plain; echo; echo; PATH=/usr/bin:/usr/local/bin:/bin; export PATH; id;
+[Tue Jun 06 05:56:43.685816 2017] [:error] [pid 25412] [client 172.31.16.39:56678] Target WSGI script not found or unable to stat: /opt/python/current/app/config
+[Tue Jun 06 05:56:44.304574 2017] [:error] [pid 24974] [client 172.31.16.39:56682] Target WSGI script not found or unable to stat: /opt/python/current/app/config
+[Tue Jun 06 05:56:44.923859 2017] [:error] [pid 24974] [client 172.31.16.39:56682] Target WSGI script not found or unable to stat: /opt/python/current/app/config
+[Tue Jun 06 05:56:45.543028 2017] [:error] [pid 24974] [client 172.31.16.39:56682] Target WSGI script not found or unable to stat: /opt/python/current/app/config, referer: () { _; OpenVAS; } >_[$($())] {  echo Content-Type: text/plain; echo; echo; PATH=/usr/bin:/usr/local/bin:/bin; export PATH; id; }
+[Tue Jun 06 05:56:46.163225 2017] [:error] [pid 24974] [client 172.31.16.39:56682] Target WSGI script not found or unable to stat: /opt/python/current/app/config
+[Tue Jun 06 05:56:46.841048 2017] [:error] [pid 24906] [client 172.31.16.39:56692] Target WSGI script not found or unable to stat: /opt/python/current/app/config
+[Tue Jun 06 05:56:47.478299 2017] [:error] [pid 24906] [client 172.31.16.39:56692] Target WSGI script not found or unable to stat: /opt/python/current/app/config
+[Tue Jun 06 05:56:48.098147 2017] [:error] [pid 24906] [client 172.31.16.39:56692] Target WSGI script not found or unable to stat: /opt/python/current/app/config, referer: () { _; OpenVAS; } >_[$($())] {  echo Content-Type: text/plain; echo; echo; PATH=/usr/bin:/usr/local/bin:/bin; export PATH; id; }
+[Tue Jun 06 05:56:48.717864 2017] [:error] [pid 25090] [client 172.31.16.39:56694] Target WSGI script not found or unable to stat: /opt/python/current/app/config
+[Tue Jun 06 05:56:49.336172 2017] [:error] [pid 25090] [client 172.31.16.39:56694] Target WSGI script not found or unable to stat: /opt/python/current/app/config
+[Tue Jun 06 05:56:49.955063 2017] [:error] [pid 25090] [client 172.31.16.39:56694] Target WSGI script not found or unable to stat: /opt/python/current/app/config
+[Tue Jun 06 05:56:50.575076 2017] [:error] [pid 25090] [client 172.31.16.39:56694] Target WSGI script not found or unable to stat: /opt/python/current/app/config, referer: () { OpenVAS:; }; echo Content-Type: text/plain; echo; echo; PATH=/usr/bin:/usr/local/bin:/bin; export PATH; id;
+[Tue Jun 06 05:56:51.195748 2017] [:error] [pid 25101] [client 172.31.16.39:56696] Target WSGI script not found or unable to stat: /opt/python/current/app/config
+[Tue Jun 06 05:56:51.820057 2017] [:error] [pid 25101] [client 172.31.16.39:56696] Target WSGI script not found or unable to stat: /opt/python/current/app/config
+[Tue Jun 06 05:56:52.439236 2017] [:error] [pid 25101] [client 172.31.16.39:56696] Target WSGI script not found or unable to stat: /opt/python/current/app/config
+[Tue Jun 06 05:56:53.060623 2017] [:error] [pid 25101] [client 172.31.16.39:56696] Target WSGI script not found or unable to stat: /opt/python/current/app/config, referer: () { OpenVAS:; }; echo Content-Type: text/plain; echo; echo; PATH=/usr/bin:/usr/local/bin:/bin; export PATH; id;
+[Tue Jun 06 05:56:53.679510 2017] [:error] [pid 25168] [client 172.31.16.39:56698] Target WSGI script not found or unable to stat: /opt/python/current/app/config
+[Tue Jun 06 05:56:54.299044 2017] [:error] [pid 25168] [client 172.31.16.39:56698] Target WSGI script not found or unable to stat: /opt/python/current/app/config
+[Tue Jun 06 05:56:54.918526 2017] [:error] [pid 25168] [client 172.31.16.39:56698] Target WSGI script not found or unable to stat: /opt/python/current/app/config
+[Tue Jun 06 05:56:55.537698 2017] [:error] [pid 25168] [client 172.31.16.39:56698] Target WSGI script not found or unable to stat: /opt/python/current/app/config, referer: () { _; OpenVAS; } >_[$($())] {  echo Content-Type: text/plain; echo; echo; PATH=/usr/bin:/usr/local/bin:/bin; export PATH; id; }
+[Tue Jun 06 05:56:56.156568 2017] [:error] [pid 25412] [client 172.31.16.39:56706] Target WSGI script not found or unable to stat: /opt/python/current/app/config
+[Tue Jun 06 05:56:56.780995 2017] [:error] [pid 25412] [client 172.31.16.39:56706] Target WSGI script not found or unable to stat: /opt/python/current/app/config
+[Tue Jun 06 05:56:57.403959 2017] [:error] [pid 25412] [client 172.31.16.39:56706] Target WSGI script not found or unable to stat: /opt/python/current/app/config
+[Tue Jun 06 05:56:58.023317 2017] [:error] [pid 25412] [client 172.31.16.39:56706] Target WSGI script not found or unable to stat: /opt/python/current/app/config, referer: () { _; OpenVAS; } >_[$($())] {  echo Content-Type: text/plain; echo; echo; PATH=/usr/bin:/usr/local/bin:/bin; export PATH; id; }
+[Tue Jun 06 05:56:58.642668 2017] [:error] [pid 24974] [client 172.31.16.39:56710] Target WSGI script not found or unable to stat: /opt/python/current/app/config
+[Tue Jun 06 05:56:59.262722 2017] [:error] [pid 24974] [client 172.31.16.39:56710] Target WSGI script not found or unable to stat: /opt/python/current/app/config
+[Tue Jun 06 05:56:59.882030 2017] [:error] [pid 24974] [client 172.31.16.39:56710] Target WSGI script not found or unable to stat: /opt/python/current/app/config
+[Tue Jun 06 05:57:00.501244 2017] [:error] [pid 24974] [client 172.31.16.39:56710] Target WSGI script not found or unable to stat: /opt/python/current/app/config, referer: () { OpenVAS:; }; echo Content-Type: text/plain; echo; echo; PATH=/usr/bin:/usr/local/bin:/bin; export PATH; id;
+[Tue Jun 06 05:57:01.120395 2017] [:error] [pid 24903] [client 172.31.16.39:56720] Target WSGI script not found or unable to stat: /opt/python/current/app/config
+[Tue Jun 06 05:57:01.739340 2017] [:error] [pid 24903] [client 172.31.16.39:56720] Target WSGI script not found or unable to stat: /opt/python/current/app/config
+[Tue Jun 06 05:57:02.358965 2017] [:error] [pid 24903] [client 172.31.16.39:56720] Target WSGI script not found or unable to stat: /opt/python/current/app/config
+[Tue Jun 06 05:57:02.978617 2017] [:error] [pid 24903] [client 172.31.16.39:56720] Target WSGI script not found or unable to stat: /opt/python/current/app/config, referer: () { OpenVAS:; }; echo Content-Type: text/plain; echo; echo; PATH=/usr/bin:/usr/local/bin:/bin; export PATH; id;
+[Tue Jun 06 05:57:03.600140 2017] [:error] [pid 25130] [client 172.31.16.39:56728] Target WSGI script not found or unable to stat: /opt/python/current/app/config
+[Tue Jun 06 05:57:04.219522 2017] [:error] [pid 25130] [client 172.31.16.39:56728] Target WSGI script not found or unable to stat: /opt/python/current/app/config
+[Tue Jun 06 05:57:04.839319 2017] [:error] [pid 25130] [client 172.31.16.39:56728] Target WSGI script not found or unable to stat: /opt/python/current/app/config
+[Tue Jun 06 05:57:05.459884 2017] [:error] [pid 25130] [client 172.31.16.39:56728] Target WSGI script not found or unable to stat: /opt/python/current/app/config, referer: () { _; OpenVAS; } >_[$($())] {  echo Content-Type: text/plain; echo; echo; PATH=/usr/bin:/usr/local/bin:/bin; export PATH; id; }
+[Tue Jun 06 05:57:06.086538 2017] [:error] [pid 24991] [client 172.31.16.39:56732] Target WSGI script not found or unable to stat: /opt/python/current/app/config
+[Tue Jun 06 05:57:06.707132 2017] [:error] [pid 24991] [client 172.31.16.39:56732] Target WSGI script not found or unable to stat: /opt/python/current/app/config
+[Tue Jun 06 05:57:07.327145 2017] [:error] [pid 24991] [client 172.31.16.39:56732] Target WSGI script not found or unable to stat: /opt/python/current/app/config
+[Tue Jun 06 05:57:07.947117 2017] [:error] [pid 24991] [client 172.31.16.39:56732] Target WSGI script not found or unable to stat: /opt/python/current/app/config, referer: () { _; OpenVAS; } >_[$($())] {  echo Content-Type: text/plain; echo; echo; PATH=/usr/bin:/usr/local/bin:/bin; export PATH; id; }
+[Tue Jun 06 05:57:08.566684 2017] [:error] [pid 24906] [client 172.31.16.39:56740] Target WSGI script not found or unable to stat: /opt/python/current/app/config
+[Tue Jun 06 05:57:09.185903 2017] [:error] [pid 24906] [client 172.31.16.39:56740] Target WSGI script not found or unable to stat: /opt/python/current/app/config
+[Tue Jun 06 05:57:09.804252 2017] [cgi:error] [pid 24906] [client 172.31.16.39:56740] AH02811: script not found or unable to stat: /var/www/cgi-bin/guestbook.cgi
+[Tue Jun 06 05:57:10.426864 2017] [cgi:error] [pid 24906] [client 172.31.16.39:56740] AH02811: script not found or unable to stat: /var/www/cgi-bin/guestbook.cgi, referer: () { OpenVAS:; }; echo Content-Type: text/plain; echo; echo; PATH=/usr/bin:/usr/local/bin:/bin; export PATH; id;
+[Tue Jun 06 05:57:11.046060 2017] [cgi:error] [pid 25352] [client 172.31.16.39:56744] AH02811: script not found or unable to stat: /var/www/cgi-bin/guestbook.cgi
+[Tue Jun 06 05:57:11.665605 2017] [cgi:error] [pid 25352] [client 172.31.16.39:56744] AH02811: script not found or unable to stat: /var/www/cgi-bin/guestbook.cgi
+[Tue Jun 06 05:57:12.285123 2017] [cgi:error] [pid 25352] [client 172.31.16.39:56744] AH02811: script not found or unable to stat: /var/www/cgi-bin/guestbook.cgi
+[Tue Jun 06 05:57:12.905415 2017] [cgi:error] [pid 25352] [client 172.31.16.39:56744] AH02811: script not found or unable to stat: /var/www/cgi-bin/guestbook.cgi, referer: () { OpenVAS:; }; echo Content-Type: text/plain; echo; echo; PATH=/usr/bin:/usr/local/bin:/bin; export PATH; id;
+[Tue Jun 06 05:57:13.524515 2017] [cgi:error] [pid 24974] [client 172.31.16.39:56746] AH02811: script not found or unable to stat: /var/www/cgi-bin/guestbook.cgi
+[Tue Jun 06 05:57:14.142942 2017] [cgi:error] [pid 24974] [client 172.31.16.39:56746] AH02811: script not found or unable to stat: /var/www/cgi-bin/guestbook.cgi
+[Tue Jun 06 05:57:14.762632 2017] [cgi:error] [pid 24974] [client 172.31.16.39:56746] AH02811: script not found or unable to stat: /var/www/cgi-bin/guestbook.cgi
+[Tue Jun 06 05:57:15.382202 2017] [cgi:error] [pid 24974] [client 172.31.16.39:56746] AH02811: script not found or unable to stat: /var/www/cgi-bin/guestbook.cgi, referer: () { _; OpenVAS; } >_[$($())] {  echo Content-Type: text/plain; echo; echo; PATH=/usr/bin:/usr/local/bin:/bin; export PATH; id; }
+[Tue Jun 06 05:57:16.004982 2017] [cgi:error] [pid 25102] [client 172.31.16.39:56748] AH02811: script not found or unable to stat: /var/www/cgi-bin/guestbook.cgi
+[Tue Jun 06 05:57:16.624787 2017] [cgi:error] [pid 25102] [client 172.31.16.39:56748] AH02811: script not found or unable to stat: /var/www/cgi-bin/guestbook.cgi
+[Tue Jun 06 05:57:17.245364 2017] [cgi:error] [pid 25102] [client 172.31.16.39:56748] AH02811: script not found or unable to stat: /var/www/cgi-bin/guestbook.cgi
+[Tue Jun 06 05:57:17.865053 2017] [cgi:error] [pid 25102] [client 172.31.16.39:56748] AH02811: script not found or unable to stat: /var/www/cgi-bin/guestbook.cgi, referer: () { _; OpenVAS; } >_[$($())] {  echo Content-Type: text/plain; echo; echo; PATH=/usr/bin:/usr/local/bin:/bin; export PATH; id; }
+[Tue Jun 06 05:57:18.484433 2017] [cgi:error] [pid 25137] [client 172.31.16.39:56752] AH02811: script not found or unable to stat: /var/www/cgi-bin/guestbook.cgi
+[Tue Jun 06 05:57:19.103922 2017] [cgi:error] [pid 25137] [client 172.31.16.39:56752] AH02811: script not found or unable to stat: /var/www/cgi-bin/guestbook.cgi
+[Tue Jun 06 05:57:19.723730 2017] [:error] [pid 25137] [client 172.31.16.39:56752] Target WSGI script not found or unable to stat: /opt/python/current/app/config
+[Tue Jun 06 05:57:20.343923 2017] [:error] [pid 25137] [client 172.31.16.39:56752] Target WSGI script not found or unable to stat: /opt/python/current/app/config, referer: () { OpenVAS:; }; echo Content-Type: text/plain; echo; echo; PATH=/usr/bin:/usr/local/bin:/bin; export PATH; id;
+[Tue Jun 06 05:57:20.967918 2017] [:error] [pid 24980] [client 172.31.16.39:56764] Target WSGI script not found or unable to stat: /opt/python/current/app/config
+[Tue Jun 06 05:57:21.590725 2017] [:error] [pid 24980] [client 172.31.16.39:56764] Target WSGI script not found or unable to stat: /opt/python/current/app/config
+[Tue Jun 06 05:57:22.209930 2017] [:error] [pid 24980] [client 172.31.16.39:56764] Target WSGI script not found or unable to stat: /opt/python/current/app/config
+[Tue Jun 06 05:57:22.829964 2017] [:error] [pid 24980] [client 172.31.16.39:56764] Target WSGI script not found or unable to stat: /opt/python/current/app/config, referer: () { OpenVAS:; }; echo Content-Type: text/plain; echo; echo; PATH=/usr/bin:/usr/local/bin:/bin; export PATH; id;
+[Tue Jun 06 05:57:23.451401 2017] [:error] [pid 25130] [client 172.31.16.39:56766] Target WSGI script not found or unable to stat: /opt/python/current/app/config
+[Tue Jun 06 05:57:24.071759 2017] [:error] [pid 25130] [client 172.31.16.39:56766] Target WSGI script not found or unable to stat: /opt/python/current/app/config
+[Tue Jun 06 05:57:24.690855 2017] [:error] [pid 25130] [client 172.31.16.39:56766] Target WSGI script not found or unable to stat: /opt/python/current/app/config
+[Tue Jun 06 05:57:25.312917 2017] [:error] [pid 25130] [client 172.31.16.39:56766] Target WSGI script not found or unable to stat: /opt/python/current/app/config, referer: () { _; OpenVAS; } >_[$($())] {  echo Content-Type: text/plain; echo; echo; PATH=/usr/bin:/usr/local/bin:/bin; export PATH; id; }
+[Tue Jun 06 05:57:25.931074 2017] [:error] [pid 25101] [client 172.31.16.39:56768] Target WSGI script not found or unable to stat: /opt/python/current/app/config
+[Tue Jun 06 05:57:26.553293 2017] [:error] [pid 25101] [client 172.31.16.39:56768] Target WSGI script not found or unable to stat: /opt/python/current/app/config
+[Tue Jun 06 05:57:27.174458 2017] [:error] [pid 25101] [client 172.31.16.39:56768] Target WSGI script not found or unable to stat: /opt/python/current/app/config
+[Tue Jun 06 05:57:27.795784 2017] [:error] [pid 25101] [client 172.31.16.39:56768] Target WSGI script not found or unable to stat: /opt/python/current/app/config, referer: () { _; OpenVAS; } >_[$($())] {  echo Content-Type: text/plain; echo; echo; PATH=/usr/bin:/usr/local/bin:/bin; export PATH; id; }
+[Tue Jun 06 05:57:28.415386 2017] [:error] [pid 25321] [client 172.31.16.39:56774] Target WSGI script not found or unable to stat: /opt/python/current/app/config
+[Tue Jun 06 05:57:29.034907 2017] [:error] [pid 25321] [client 172.31.16.39:56774] Target WSGI script not found or unable to stat: /opt/python/current/app/config
+[Tue Jun 06 05:57:29.654173 2017] [:error] [pid 25321] [client 172.31.16.39:56774] Target WSGI script not found or unable to stat: /opt/python/current/app/config
+[Tue Jun 06 05:57:30.273288 2017] [:error] [pid 25321] [client 172.31.16.39:56774] Target WSGI script not found or unable to stat: /opt/python/current/app/config, referer: () { OpenVAS:; }; echo Content-Type: text/plain; echo; echo; PATH=/usr/bin:/usr/local/bin:/bin; export PATH; id;
+[Tue Jun 06 07:56:03.304567 2017] [:error] [pid 25101] [client 172.31.16.39:62368] Target WSGI script not found or unable to stat: /opt/python/current/app/config, referer: http://52.49.99.68/
+[Tue Jun 06 09:40:02.571365 2017] [:error] [pid 24991] [client 172.31.12.218:41518] Target WSGI script not found or unable to stat: /opt/python/current/app/config
+[Tue Jun 06 11:33:15.736698 2017] [:error] [pid 24987] [client 172.31.12.218:46906] Target WSGI script not found or unable to stat: /opt/python/current/app/config
+[Tue Jun 06 11:57:37.210116 2017] [:error] [pid 25102] [client 172.31.16.39:9915] Target WSGI script not found or unable to stat: /opt/python/current/app/config
+[Tue Jun 06 14:19:21.353899 2017] [:error] [pid 24903] [client 172.31.12.218:54806] Target WSGI script not found or unable to stat: /opt/python/current/app/config
+[Tue Jun 06 14:22:03.328355 2017] [:error] [pid 25412] [client 172.31.16.39:16793] Target WSGI script not found or unable to stat: /opt/python/current/app/config
+[Tue Jun 06 18:31:52.304848 2017] [:error] [pid 24903] [client 172.31.12.218:2843] Target WSGI script not found or unable to stat: /opt/python/current/app/config
+
+
+
+-------------------------------------
+/opt/python/log/supervisord.log
+-------------------------------------
+2017-06-05 23:05:41,903 CRIT Supervisor running as root (no user in config file)
+2017-06-05 23:05:41,913 INFO RPC interface 'supervisor' initialized
+2017-06-05 23:05:41,914 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-06-05 23:05:41,914 INFO supervisord started with pid 2923
+2017-06-05 23:05:42,916 INFO spawned: 'httpd' with pid 3004
+2017-06-05 23:05:44,125 INFO success: httpd entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2017-06-05 23:10:32,378 INFO stopped: httpd (exit status 0)
+2017-06-05 23:10:33,382 INFO spawned: 'httpd' with pid 3752
+2017-06-05 23:10:34,425 INFO success: httpd entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+
+
+
+-------------------------------------
+/var/log/httpd/access_log
+-------------------------------------
+172.31.16.39 (209.58.130.104) - - [06/Jun/2017:05:56:39 +0000] "POST /cgi-bin/hi HTTP/1.1" 404 208 "-" "-"
+172.31.16.39 (209.58.130.104) - - [06/Jun/2017:05:56:39 +0000] "GET /cgi_wrapper HTTP/1.1" 404 209 "-" "() { OpenVAS:; }; echo Content-Type: text/plain; echo; echo; PATH=/usr/bin:/usr/local/bin:/bin; export PATH; id;"
+172.31.16.39 (209.58.130.104) - - [06/Jun/2017:05:56:40 +0000] "GET /cgi_wrapper HTTP/1.1" 404 209 "() { OpenVAS:; }; echo Content-Type: text/plain; echo; echo; PATH=/usr/bin:/usr/local/bin:/bin; export PATH; id;" "-"
+172.31.16.39 (209.58.130.104) - - [06/Jun/2017:05:56:41 +0000] "GET /cgi_wrapper HTTP/1.1" 404 209 "-" "-"
+172.31.16.39 (209.58.130.104) - - [06/Jun/2017:05:56:41 +0000] "GET /cgi_wrapper HTTP/1.1" 404 209 "-" "-"
+172.31.16.39 (209.58.130.104) - - [06/Jun/2017:05:56:42 +0000] "POST /cgi_wrapper HTTP/1.1" 404 209 "-" "() { OpenVAS:; }; echo Content-Type: text/plain; echo; echo; PATH=/usr/bin:/usr/local/bin:/bin; export PATH; id;"
+172.31.16.39 (209.58.130.104) - - [06/Jun/2017:05:56:43 +0000] "POST /cgi_wrapper HTTP/1.1" 404 209 "() { OpenVAS:; }; echo Content-Type: text/plain; echo; echo; PATH=/usr/bin:/usr/local/bin:/bin; export PATH; id;" "-"
+172.31.16.39 (209.58.130.104) - - [06/Jun/2017:05:56:43 +0000] "POST /cgi_wrapper HTTP/1.1" 404 209 "-" "-"
+172.31.16.39 (209.58.130.104) - - [06/Jun/2017:05:56:44 +0000] "POST /cgi_wrapper HTTP/1.1" 404 209 "-" "-"
+172.31.16.39 (209.58.130.104) - - [06/Jun/2017:05:56:44 +0000] "GET /cgi_wrapper HTTP/1.1" 404 209 "-" "() { _; OpenVAS; } >_[$($())] {  echo Content-Type: text/plain; echo; echo; PATH=/usr/bin:/usr/local/bin:/bin; export PATH; id; }"
+172.31.16.39 (209.58.130.104) - - [06/Jun/2017:05:56:45 +0000] "GET /cgi_wrapper HTTP/1.1" 404 209 "() { _; OpenVAS; } >_[$($())] {  echo Content-Type: text/plain; echo; echo; PATH=/usr/bin:/usr/local/bin:/bin; export PATH; id; }" "-"
+172.31.16.39 (209.58.130.104) - - [06/Jun/2017:05:56:46 +0000] "GET /cgi_wrapper HTTP/1.1" 404 209 "-" "-"
+172.31.16.39 (209.58.130.104) - - [06/Jun/2017:05:56:46 +0000] "GET /cgi_wrapper HTTP/1.1" 404 209 "-" "-"
+172.31.16.39 (209.58.130.104) - - [06/Jun/2017:05:56:47 +0000] "POST /cgi_wrapper HTTP/1.1" 404 209 "-" "() { _; OpenVAS; } >_[$($())] {  echo Content-Type: text/plain; echo; echo; PATH=/usr/bin:/usr/local/bin:/bin; export PATH; id; }"
+172.31.16.39 (209.58.130.104) - - [06/Jun/2017:05:56:48 +0000] "POST /cgi_wrapper HTTP/1.1" 404 209 "() { _; OpenVAS; } >_[$($())] {  echo Content-Type: text/plain; echo; echo; PATH=/usr/bin:/usr/local/bin:/bin; export PATH; id; }" "-"
+172.31.16.39 (209.58.130.104) - - [06/Jun/2017:05:56:48 +0000] "POST /cgi_wrapper HTTP/1.1" 404 209 "-" "-"
+172.31.16.39 (209.58.130.104) - - [06/Jun/2017:05:56:49 +0000] "POST /cgi_wrapper HTTP/1.1" 404 209 "-" "-"
+172.31.16.39 (209.58.130.104) - - [06/Jun/2017:05:56:49 +0000] "GET /admin.cgi HTTP/1.1" 404 207 "-" "() { OpenVAS:; }; echo Content-Type: text/plain; echo; echo; PATH=/usr/bin:/usr/local/bin:/bin; export PATH; id;"
+172.31.16.39 (209.58.130.104) - - [06/Jun/2017:05:56:50 +0000] "GET /admin.cgi HTTP/1.1" 404 207 "() { OpenVAS:; }; echo Content-Type: text/plain; echo; echo; PATH=/usr/bin:/usr/local/bin:/bin; export PATH; id;" "-"
+172.31.16.39 (209.58.130.104) - - [06/Jun/2017:05:56:51 +0000] "GET /admin.cgi HTTP/1.1" 404 207 "-" "-"
+172.31.16.39 (209.58.130.104) - - [06/Jun/2017:05:56:51 +0000] "GET /admin.cgi HTTP/1.1" 404 207 "-" "-"
+172.31.16.39 (209.58.130.104) - - [06/Jun/2017:05:56:52 +0000] "POST /admin.cgi HTTP/1.1" 404 207 "-" "() { OpenVAS:; }; echo Content-Type: text/plain; echo; echo; PATH=/usr/bin:/usr/local/bin:/bin; export PATH; id;"
+172.31.16.39 (209.58.130.104) - - [06/Jun/2017:05:56:53 +0000] "POST /admin.cgi HTTP/1.1" 404 207 "() { OpenVAS:; }; echo Content-Type: text/plain; echo; echo; PATH=/usr/bin:/usr/local/bin:/bin; export PATH; id;" "-"
+172.31.16.39 (209.58.130.104) - - [06/Jun/2017:05:56:53 +0000] "POST /admin.cgi HTTP/1.1" 404 207 "-" "-"
+172.31.16.39 (209.58.130.104) - - [06/Jun/2017:05:56:54 +0000] "POST /admin.cgi HTTP/1.1" 404 207 "-" "-"
+172.31.16.39 (209.58.130.104) - - [06/Jun/2017:05:56:54 +0000] "GET /admin.cgi HTTP/1.1" 404 207 "-" "() { _; OpenVAS; } >_[$($())] {  echo Content-Type: text/plain; echo; echo; PATH=/usr/bin:/usr/local/bin:/bin; export PATH; id; }"
+172.31.16.39 (209.58.130.104) - - [06/Jun/2017:05:56:55 +0000] "GET /admin.cgi HTTP/1.1" 404 207 "() { _; OpenVAS; } >_[$($())] {  echo Content-Type: text/plain; echo; echo; PATH=/usr/bin:/usr/local/bin:/bin; export PATH; id; }" "-"
+172.31.16.39 (209.58.130.104) - - [06/Jun/2017:05:56:56 +0000] "GET /admin.cgi HTTP/1.1" 404 207 "-" "-"
+172.31.16.39 (209.58.130.104) - - [06/Jun/2017:05:56:56 +0000] "GET /admin.cgi HTTP/1.1" 404 207 "-" "-"
+172.31.16.39 (209.58.130.104) - - [06/Jun/2017:05:56:57 +0000] "POST /admin.cgi HTTP/1.1" 404 207 "-" "() { _; OpenVAS; } >_[$($())] {  echo Content-Type: text/plain; echo; echo; PATH=/usr/bin:/usr/local/bin:/bin; export PATH; id; }"
+172.31.16.39 (209.58.130.104) - - [06/Jun/2017:05:56:58 +0000] "POST /admin.cgi HTTP/1.1" 404 207 "() { _; OpenVAS; } >_[$($())] {  echo Content-Type: text/plain; echo; echo; PATH=/usr/bin:/usr/local/bin:/bin; export PATH; id; }" "-"
+172.31.16.39 (209.58.130.104) - - [06/Jun/2017:05:56:58 +0000] "POST /admin.cgi HTTP/1.1" 404 207 "-" "-"
+172.31.16.39 (209.58.130.104) - - [06/Jun/2017:05:56:59 +0000] "POST /admin.cgi HTTP/1.1" 404 207 "-" "-"
+172.31.16.39 (209.58.130.104) - - [06/Jun/2017:05:56:59 +0000] "GET /administrator.cgi HTTP/1.1" 404 215 "-" "() { OpenVAS:; }; echo Content-Type: text/plain; echo; echo; PATH=/usr/bin:/usr/local/bin:/bin; export PATH; id;"
+172.31.16.39 (209.58.130.104) - - [06/Jun/2017:05:57:00 +0000] "GET /administrator.cgi HTTP/1.1" 404 215 "() { OpenVAS:; }; echo Content-Type: text/plain; echo; echo; PATH=/usr/bin:/usr/local/bin:/bin; export PATH; id;" "-"
+172.31.16.39 (209.58.130.104) - - [06/Jun/2017:05:57:01 +0000] "GET /administrator.cgi HTTP/1.1" 404 215 "-" "-"
+172.31.16.39 (209.58.130.104) - - [06/Jun/2017:05:57:01 +0000] "GET /administrator.cgi HTTP/1.1" 404 215 "-" "-"
+172.31.16.39 (209.58.130.104) - - [06/Jun/2017:05:57:02 +0000] "POST /administrator.cgi HTTP/1.1" 404 215 "-" "() { OpenVAS:; }; echo Content-Type: text/plain; echo; echo; PATH=/usr/bin:/usr/local/bin:/bin; export PATH; id;"
+172.31.16.39 (209.58.130.104) - - [06/Jun/2017:05:57:02 +0000] "POST /administrator.cgi HTTP/1.1" 404 215 "() { OpenVAS:; }; echo Content-Type: text/plain; echo; echo; PATH=/usr/bin:/usr/local/bin:/bin; export PATH; id;" "-"
+172.31.16.39 (209.58.130.104) - - [06/Jun/2017:05:57:03 +0000] "POST /administrator.cgi HTTP/1.1" 404 215 "-" "-"
+172.31.16.39 (209.58.130.104) - - [06/Jun/2017:05:57:04 +0000] "POST /administrator.cgi HTTP/1.1" 404 215 "-" "-"
+172.31.16.39 (209.58.130.104) - - [06/Jun/2017:05:57:04 +0000] "GET /administrator.cgi HTTP/1.1" 404 215 "-" "() { _; OpenVAS; } >_[$($())] {  echo Content-Type: text/plain; echo; echo; PATH=/usr/bin:/usr/local/bin:/bin; export PATH; id; }"
+172.31.16.39 (209.58.130.104) - - [06/Jun/2017:05:57:05 +0000] "GET /administrator.cgi HTTP/1.1" 404 215 "() { _; OpenVAS; } >_[$($())] {  echo Content-Type: text/plain; echo; echo; PATH=/usr/bin:/usr/local/bin:/bin; export PATH; id; }" "-"
+172.31.16.39 (209.58.130.104) - - [06/Jun/2017:05:57:06 +0000] "GET /administrator.cgi HTTP/1.1" 404 215 "-" "-"
+172.31.16.39 (209.58.130.104) - - [06/Jun/2017:05:57:06 +0000] "GET /administrator.cgi HTTP/1.1" 404 215 "-" "-"
+172.31.16.39 (209.58.130.104) - - [06/Jun/2017:05:57:07 +0000] "POST /administrator.cgi HTTP/1.1" 404 215 "-" "() { _; OpenVAS; } >_[$($())] {  echo Content-Type: text/plain; echo; echo; PATH=/usr/bin:/usr/local/bin:/bin; export PATH; id; }"
+172.31.16.39 (209.58.130.104) - - [06/Jun/2017:05:57:07 +0000] "POST /administrator.cgi HTTP/1.1" 404 215 "() { _; OpenVAS; } >_[$($())] {  echo Content-Type: text/plain; echo; echo; PATH=/usr/bin:/usr/local/bin:/bin; export PATH; id; }" "-"
+172.31.16.39 (209.58.130.104) - - [06/Jun/2017:05:57:08 +0000] "POST /administrator.cgi HTTP/1.1" 404 215 "-" "-"
+172.31.16.39 (209.58.130.104) - - [06/Jun/2017:05:57:09 +0000] "POST /administrator.cgi HTTP/1.1" 404 215 "-" "-"
+172.31.16.39 (209.58.130.104) - - [06/Jun/2017:05:57:09 +0000] "GET /cgi-bin/guestbook.cgi HTTP/1.1" 404 219 "-" "() { OpenVAS:; }; echo Content-Type: text/plain; echo; echo; PATH=/usr/bin:/usr/local/bin:/bin; export PATH; id;"
+172.31.16.39 (209.58.130.104) - - [06/Jun/2017:05:57:10 +0000] "GET /cgi-bin/guestbook.cgi HTTP/1.1" 404 219 "() { OpenVAS:; }; echo Content-Type: text/plain; echo; echo; PATH=/usr/bin:/usr/local/bin:/bin; export PATH; id;" "-"
+172.31.16.39 (209.58.130.104) - - [06/Jun/2017:05:57:11 +0000] "GET /cgi-bin/guestbook.cgi HTTP/1.1" 404 219 "-" "-"
+172.31.16.39 (209.58.130.104) - - [06/Jun/2017:05:57:11 +0000] "GET /cgi-bin/guestbook.cgi HTTP/1.1" 404 219 "-" "-"
+172.31.16.39 (209.58.130.104) - - [06/Jun/2017:05:57:12 +0000] "POST /cgi-bin/guestbook.cgi HTTP/1.1" 404 219 "-" "() { OpenVAS:; }; echo Content-Type: text/plain; echo; echo; PATH=/usr/bin:/usr/local/bin:/bin; export PATH; id;"
+172.31.16.39 (209.58.130.104) - - [06/Jun/2017:05:57:12 +0000] "POST /cgi-bin/guestbook.cgi HTTP/1.1" 404 219 "() { OpenVAS:; }; echo Content-Type: text/plain; echo; echo; PATH=/usr/bin:/usr/local/bin:/bin; export PATH; id;" "-"
+172.31.16.39 (209.58.130.104) - - [06/Jun/2017:05:57:13 +0000] "POST /cgi-bin/guestbook.cgi HTTP/1.1" 404 219 "-" "-"
+172.31.16.39 (209.58.130.104) - - [06/Jun/2017:05:57:14 +0000] "POST /cgi-bin/guestbook.cgi HTTP/1.1" 404 219 "-" "-"
+172.31.16.39 (209.58.130.104) - - [06/Jun/2017:05:57:14 +0000] "GET /cgi-bin/guestbook.cgi HTTP/1.1" 404 219 "-" "() { _; OpenVAS; } >_[$($())] {  echo Content-Type: text/plain; echo; echo; PATH=/usr/bin:/usr/local/bin:/bin; export PATH; id; }"
+172.31.16.39 (209.58.130.104) - - [06/Jun/2017:05:57:15 +0000] "GET /cgi-bin/guestbook.cgi HTTP/1.1" 404 219 "() { _; OpenVAS; } >_[$($())] {  echo Content-Type: text/plain; echo; echo; PATH=/usr/bin:/usr/local/bin:/bin; export PATH; id; }" "-"
+172.31.16.39 (209.58.130.104) - - [06/Jun/2017:05:57:16 +0000] "GET /cgi-bin/guestbook.cgi HTTP/1.1" 404 219 "-" "-"
+172.31.16.39 (209.58.130.104) - - [06/Jun/2017:05:57:16 +0000] "GET /cgi-bin/guestbook.cgi HTTP/1.1" 404 219 "-" "-"
+172.31.16.39 (209.58.130.104) - - [06/Jun/2017:05:57:17 +0000] "POST /cgi-bin/guestbook.cgi HTTP/1.1" 404 219 "-" "() { _; OpenVAS; } >_[$($())] {  echo Content-Type: text/plain; echo; echo; PATH=/usr/bin:/usr/local/bin:/bin; export PATH; id; }"
+172.31.16.39 (209.58.130.104) - - [06/Jun/2017:05:57:17 +0000] "POST /cgi-bin/guestbook.cgi HTTP/1.1" 404 219 "() { _; OpenVAS; } >_[$($())] {  echo Content-Type: text/plain; echo; echo; PATH=/usr/bin:/usr/local/bin:/bin; export PATH; id; }" "-"
+172.31.16.39 (209.58.130.104) - - [06/Jun/2017:05:57:18 +0000] "POST /cgi-bin/guestbook.cgi HTTP/1.1" 404 219 "-" "-"
+172.31.16.39 (209.58.130.104) - - [06/Jun/2017:05:57:19 +0000] "POST /cgi-bin/guestbook.cgi HTTP/1.1" 404 219 "-" "-"
+172.31.16.39 (209.58.130.104) - - [06/Jun/2017:05:57:19 +0000] "GET /tmUnblock.cgi HTTP/1.1" 404 211 "-" "() { OpenVAS:; }; echo Content-Type: text/plain; echo; echo; PATH=/usr/bin:/usr/local/bin:/bin; export PATH; id;"
+172.31.16.39 (209.58.130.104) - - [06/Jun/2017:05:57:20 +0000] "GET /tmUnblock.cgi HTTP/1.1" 404 211 "() { OpenVAS:; }; echo Content-Type: text/plain; echo; echo; PATH=/usr/bin:/usr/local/bin:/bin; export PATH; id;" "-"
+172.31.16.39 (209.58.130.104) - - [06/Jun/2017:05:57:20 +0000] "GET /tmUnblock.cgi HTTP/1.1" 404 211 "-" "-"
+172.31.16.39 (209.58.130.104) - - [06/Jun/2017:05:57:21 +0000] "GET /tmUnblock.cgi HTTP/1.1" 404 211 "-" "-"
+172.31.16.39 (209.58.130.104) - - [06/Jun/2017:05:57:22 +0000] "POST /tmUnblock.cgi HTTP/1.1" 404 211 "-" "() { OpenVAS:; }; echo Content-Type: text/plain; echo; echo; PATH=/usr/bin:/usr/local/bin:/bin; export PATH; id;"
+172.31.16.39 (209.58.130.104) - - [06/Jun/2017:05:57:22 +0000] "POST /tmUnblock.cgi HTTP/1.1" 404 211 "() { OpenVAS:; }; echo Content-Type: text/plain; echo; echo; PATH=/usr/bin:/usr/local/bin:/bin; export PATH; id;" "-"
+::1 (-) - - [06/Jun/2017:05:57:23 +0000] "OPTIONS * HTTP/1.0" 200 - "-" "Apache/2.4.25 (Amazon) mod_wsgi/3.5 Python/3.4.3 (internal dummy connection)"
+172.31.16.39 (209.58.130.104) - - [06/Jun/2017:05:57:23 +0000] "POST /tmUnblock.cgi HTTP/1.1" 404 211 "-" "-"
+172.31.16.39 (209.58.130.104) - - [06/Jun/2017:05:57:24 +0000] "POST /tmUnblock.cgi HTTP/1.1" 404 211 "-" "-"
+172.31.16.39 (209.58.130.104) - - [06/Jun/2017:05:57:24 +0000] "GET /tmUnblock.cgi HTTP/1.1" 404 211 "-" "() { _; OpenVAS; } >_[$($())] {  echo Content-Type: text/plain; echo; echo; PATH=/usr/bin:/usr/local/bin:/bin; export PATH; id; }"
+172.31.16.39 (209.58.130.104) - - [06/Jun/2017:05:57:25 +0000] "GET /tmUnblock.cgi HTTP/1.1" 404 211 "() { _; OpenVAS; } >_[$($())] {  echo Content-Type: text/plain; echo; echo; PATH=/usr/bin:/usr/local/bin:/bin; export PATH; id; }" "-"
+172.31.16.39 (209.58.130.104) - - [06/Jun/2017:05:57:25 +0000] "GET /tmUnblock.cgi HTTP/1.1" 404 211 "-" "-"
+172.31.16.39 (209.58.130.104) - - [06/Jun/2017:05:57:26 +0000] "GET /tmUnblock.cgi HTTP/1.1" 404 211 "-" "-"
+172.31.16.39 (209.58.130.104) - - [06/Jun/2017:05:57:27 +0000] "POST /tmUnblock.cgi HTTP/1.1" 404 211 "-" "() { _; OpenVAS; } >_[$($())] {  echo Content-Type: text/plain; echo; echo; PATH=/usr/bin:/usr/local/bin:/bin; export PATH; id; }"
+172.31.16.39 (209.58.130.104) - - [06/Jun/2017:05:57:27 +0000] "POST /tmUnblock.cgi HTTP/1.1" 404 211 "() { _; OpenVAS; } >_[$($())] {  echo Content-Type: text/plain; echo; echo; PATH=/usr/bin:/usr/local/bin:/bin; export PATH; id; }" "-"
+172.31.16.39 (209.58.130.104) - - [06/Jun/2017:05:57:28 +0000] "POST /tmUnblock.cgi HTTP/1.1" 404 211 "-" "-"
+172.31.16.39 (209.58.130.104) - - [06/Jun/2017:05:57:29 +0000] "POST /tmUnblock.cgi HTTP/1.1" 404 211 "-" "-"
+172.31.16.39 (209.58.130.104) - - [06/Jun/2017:05:57:29 +0000] "GET /phppath/php HTTP/1.1" 404 209 "-" "() { OpenVAS:; }; echo Content-Type: text/plain; echo; echo; PATH=/usr/bin:/usr/local/bin:/bin; export PATH; id;"
+172.31.16.39 (209.58.130.104) - - [06/Jun/2017:05:57:30 +0000] "GET /phppath/php HTTP/1.1" 404 209 "() { OpenVAS:; }; echo Content-Type: text/plain; echo; echo; PATH=/usr/bin:/usr/local/bin:/bin; export PATH; id;" "-"
+::1 (-) - - [06/Jun/2017:05:57:38 +0000] "OPTIONS * HTTP/1.0" 200 - "-" "Apache/2.4.25 (Amazon) mod_wsgi/3.5 Python/3.4.3 (internal dummy connection)"
+::1 (-) - - [06/Jun/2017:05:58:20 +0000] "OPTIONS * HTTP/1.0" 200 - "-" "Apache/2.4.25 (Amazon) mod_wsgi/3.5 Python/3.4.3 (internal dummy connection)"
+::1 (-) - - [06/Jun/2017:05:58:28 +0000] "OPTIONS * HTTP/1.0" 200 - "-" "Apache/2.4.25 (Amazon) mod_wsgi/3.5 Python/3.4.3 (internal dummy connection)"
+::1 (-) - - [06/Jun/2017:05:58:31 +0000] "OPTIONS * HTTP/1.0" 200 - "-" "Apache/2.4.25 (Amazon) mod_wsgi/3.5 Python/3.4.3 (internal dummy connection)"
+::1 (-) - - [06/Jun/2017:05:58:32 +0000] "OPTIONS * HTTP/1.0" 200 - "-" "Apache/2.4.25 (Amazon) mod_wsgi/3.5 Python/3.4.3 (internal dummy connection)"
+::1 (-) - - [06/Jun/2017:05:58:33 +0000] "OPTIONS * HTTP/1.0" 200 - "-" "Apache/2.4.25 (Amazon) mod_wsgi/3.5 Python/3.4.3 (internal dummy connection)"
+::1 (-) - - [06/Jun/2017:05:58:36 +0000] "OPTIONS * HTTP/1.0" 200 - "-" "Apache/2.4.25 (Amazon) mod_wsgi/3.5 Python/3.4.3 (internal dummy connection)"
+172.31.16.39 (120.76.42.42) - - [06/Jun/2017:07:56:03 +0000] "GET / HTTP/1.1" 404 198 "http://52.49.99.68/" "Mozilla/4.0 (compatible; MSIE 9.0; Windows NT 6.1)"
+172.31.12.218 (141.212.122.96) - - [06/Jun/2017:09:40:02 +0000] "GET / HTTP/1.1" 404 198 "-" "Mozilla/5.0 zgrab/0.x"
+172.31.12.218 (185.35.63.162) - - [06/Jun/2017:11:33:15 +0000] "GET / HTTP/1.1" 404 198 "-" "ts"
+172.31.16.39 (185.35.63.155) - - [06/Jun/2017:11:57:37 +0000] "GET / HTTP/1.1" 404 198 "-" "zs"
+172.31.12.218 (104.166.90.2) - - [06/Jun/2017:12:10:41 +0000] "GET /static/images/logo.png HTTP/1.1" 404 220 "-" "Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.65 Safari/537.36 OPR/26.0.1656.24"
+172.31.12.218 (97.70.167.89) - - [06/Jun/2017:14:19:21 +0000] "GET / HTTP/1.1" 404 198 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.81 Safari/537.36"
+172.31.16.39 (110.77.216.47) - - [06/Jun/2017:14:22:03 +0000] "GET / HTTP/1.1" 404 198 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/601.7.8 (KHTML, like Gecko) Version/9.1.3 Safari/537.86.7"
+172.31.16.39 (104.166.90.2) - - [06/Jun/2017:16:41:37 +0000] "GET /static/images/logo.png HTTP/1.1" 404 220 "-" "Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.65 Safari/537.36 OPR/26.0.1656.24"
+172.31.12.218 (91.196.50.33) - - [06/Jun/2017:18:31:52 +0000] "GET /testproxy.php HTTP/1.1" 404 211 "-" "Mozilla/5.0 (Windows NT 5.1; rv:32.0) Gecko/20100101 Firefox/31.0"
+
+
+
+-------------------------------------
+/var/log/eb-activity.log
+-------------------------------------
+      c/_cffi_backend.c:4079: error: ‘ffi_type_longdouble’ undeclared (first use in this function)
+      c/_cffi_backend.c:4086: error: ‘ffi_type_uint8’ undeclared (first use in this function)
+      c/_cffi_backend.c:4087: error: ‘ffi_type_uint16’ undeclared (first use in this function)
+      c/_cffi_backend.c:4088: error: ‘ffi_type_uint32’ undeclared (first use in this function)
+      c/_cffi_backend.c:4089: error: ‘ffi_type_uint64’ undeclared (first use in this function)
+      c/_cffi_backend.c: At top level:
+      c/_cffi_backend.c:4736: error: expected specifier-qualifier-list before ‘ffi_type’
+      c/_cffi_backend.c:4761: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘*’ token
+      c/_cffi_backend.c:4771: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘*’ token
+      c/_cffi_backend.c: In function ‘fb_build’:
+      c/_cffi_backend.c:4923: error: ‘struct funcbuilder_s’ has no member named ‘atypes’
+      c/_cffi_backend.c:4923: error: ‘ffi_type’ undeclared (first use in this function)
+      c/_cffi_backend.c:4923: error: expected expression before ‘)’ token
+      c/_cffi_backend.c:4924: error: ‘struct funcbuilder_s’ has no member named ‘nargs’
+      c/_cffi_backend.c:4927: error: ‘struct funcbuilder_s’ has no member named ‘rtype’
+      c/_cffi_backend.c:4927: warning: implicit declaration of function ‘fb_fill_type’
+      c/_cffi_backend.c:4935: error: ‘cif_description_t’ has no member named ‘exchange_offset_arg’
+      c/_cffi_backend.c:4938: error: ‘struct funcbuilder_s’ has no member named ‘rtype’
+      c/_cffi_backend.c:4939: error: ‘ffi_arg’ undeclared (first use in this function)
+      c/_cffi_backend.c:4949: error: ‘atype’ undeclared (first use in this function)
+      c/_cffi_backend.c:4962: error: ‘struct funcbuilder_s’ has no member named ‘atypes’
+      c/_cffi_backend.c:4963: error: ‘struct funcbuilder_s’ has no member named ‘atypes’
+      c/_cffi_backend.c:4966: error: ‘cif_description_t’ has no member named ‘exchange_offset_arg’
+      c/_cffi_backend.c:4975: error: ‘cif_description_t’ has no member named ‘exchange_size’
+      c/_cffi_backend.c: In function ‘fb_build_name’:
+      c/_cffi_backend.c:4999: error: ‘struct funcbuilder_s’ has no member named ‘nargs’
+      c/_cffi_backend.c:5011: error: ‘struct funcbuilder_s’ has no member named ‘fct’
+      c/_cffi_backend.c:5014: error: ‘struct funcbuilder_s’ has no member named ‘fct’
+      c/_cffi_backend.c: In function ‘fb_prepare_ctype’:
+      c/_cffi_backend.c:5058: error: ‘struct funcbuilder_s’ has no member named ‘fct’
+      c/_cffi_backend.c:5075: error: ‘struct funcbuilder_s’ has no member named ‘fct’
+      c/_cffi_backend.c: At top level:
+      c/_cffi_backend.c:5095: error: expected declaration specifiers or ‘...’ before ‘ffi_abi’
+      c/_cffi_backend.c: In function ‘fb_prepare_cif’:
+      c/_cffi_backend.c:5122: warning: implicit declaration of function ‘ffi_prep_cif’
+      c/_cffi_backend.c:5122: error: ‘cif_description_t’ has no member named ‘cif’
+      c/_cffi_backend.c:5122: error: ‘fabi’ undeclared (first use in this function)
+      c/_cffi_backend.c:5122: error: ‘struct funcbuilder_s’ has no member named ‘nargs’
+      c/_cffi_backend.c:5123: error: ‘struct funcbuilder_s’ has no member named ‘rtype’
+      c/_cffi_backend.c:5123: error: ‘struct funcbuilder_s’ has no member named ‘atypes’
+      c/_cffi_backend.c:5123: error: ‘FFI_OK’ undeclared (first use in this function)
+      c/_cffi_backend.c: In function ‘new_function_type’:
+      c/_cffi_backend.c:5167: error: too many arguments to function ‘fb_prepare_cif’
+      c/_cffi_backend.c:5181: error: ‘struct funcbuilder_s’ has no member named ‘nargs’
+      c/_cffi_backend.c:5191: error: ‘struct funcbuilder_s’ has no member named ‘nargs’
+      c/_cffi_backend.c:5201: error: ‘struct funcbuilder_s’ has no member named ‘nargs’
+      c/_cffi_backend.c:5204: error: ‘struct funcbuilder_s’ has no member named ‘nargs’
+      c/_cffi_backend.c:5205: error: ‘struct funcbuilder_s’ has no member named ‘nargs’
+      c/_cffi_backend.c:5207: error: ‘struct funcbuilder_s’ has no member named ‘nargs’
+      c/_cffi_backend.c: In function ‘b_new_function_type’:
+      c/_cffi_backend.c:5218: error: ‘FFI_DEFAULT_ABI’ undeclared (first use in this function)
+      c/_cffi_backend.c: In function ‘convert_from_object_fficallback’:
+      c/_cffi_backend.c:5238: error: ‘ffi_arg’ undeclared (first use in this function)
+      c/_cffi_backend.c: At top level:
+      c/_cffi_backend.c:5420: error: expected ‘)’ before ‘*’ token
+      c/_cffi_backend.c: In function ‘prepare_callback_info_tuple’:
+      c/_cffi_backend.c:5462: error: ‘ffi_arg’ undeclared (first use in this function)
+      c/_cffi_backend.c: In function ‘b_callback’:
+      c/_cffi_backend.c:5495: error: ‘ffi_closure’ undeclared (first use in this function)
+      c/_cffi_backend.c:5495: error: ‘closure’ undeclared (first use in this function)
+      c/_cffi_backend.c:5505: warning: implicit declaration of function ‘cffi_closure_alloc’
+      c/_cffi_backend.c:5523: warning: implicit declaration of function ‘ffi_prep_closure’
+      c/_cffi_backend.c:5523: error: ‘cif_description_t’ has no member named ‘cif’
+      c/_cffi_backend.c:5524: error: ‘invoke_callback’ undeclared (first use in this function)
+      c/_cffi_backend.c:5524: error: ‘FFI_OK’ undeclared (first use in this function)
+      In file included from c/cffi1_module.c:3,
+                       from c/_cffi_backend.c:6896:
+      c/realize_c_type.c: In function ‘realize_c_type_or_func’:
+      c/realize_c_type.c:577: error: ‘FFI_DEFAULT_ABI’ undeclared (first use in this function)
+      c/_cffi_backend.c: In function ‘PyInit__cffi_backend’:
+      c/_cffi_backend.c:6988: error: ‘FFI_DEFAULT_ABI’ undeclared (first use in this function)
+      At top level:
+      cc1: warning: unrecognized command line option "-Wno-unused-result"
+      error: command 'gcc' failed with exit status 1
+      
+      ----------------------------------------
+  Command "/opt/python/run/venv/bin/python3.4 -c "import setuptools, tokenize;__file__='/tmp/pip-build-xiunkk2y/cffi/setup.py';exec(compile(getattr(tokenize, 'open', open)(__file__).read().replace('\r\n', '\n'), __file__, 'exec'))" install --record /tmp/pip-f1j9568g-record/install-record.txt --single-version-externally-managed --compile --install-headers /opt/python/run/venv/include/site/python3.4/cffi" failed with error code 1 in /tmp/pip-build-xiunkk2y/cffi
+  You are using pip version 7.1.2, however version 9.0.1 is available.
+  You should consider upgrading via the 'pip install --upgrade pip' command.
+  2017-06-06 18:17:10,316 ERROR    Error installing dependencies: Command '/opt/python/run/venv/bin/pip install -r /opt/python/ondeck/app/requirements.txt' returned non-zero exit status 1
+  Traceback (most recent call last):
+    File "/opt/elasticbeanstalk/hooks/appdeploy/pre/03deploy.py", line 22, in main
+      install_dependencies()
+    File "/opt/elasticbeanstalk/hooks/appdeploy/pre/03deploy.py", line 18, in install_dependencies
+      check_call('%s install -r %s' % (os.path.join(APP_VIRTUAL_ENV, 'bin', 'pip'), requirements_file), shell=True)
+    File "/usr/lib64/python2.7/subprocess.py", line 541, in check_call
+      raise CalledProcessError(retcode, cmd)
+  CalledProcessError: Command '/opt/python/run/venv/bin/pip install -r /opt/python/ondeck/app/requirements.txt' returned non-zero exit status 1 (Executor::NonZeroExitStatus)
+
+
+[2017-06-06T18:17:10.324Z] INFO  [16173] - [Application update app-6700-170606_201610@4/AppDeployStage0/AppDeployPreHook/03deploy.py] : Activity failed.
+[2017-06-06T18:17:10.324Z] INFO  [16173] - [Application update app-6700-170606_201610@4/AppDeployStage0/AppDeployPreHook] : Activity failed.
+[2017-06-06T18:17:10.324Z] INFO  [16173] - [Application update app-6700-170606_201610@4/AppDeployStage0] : Activity failed.
+[2017-06-06T18:17:10.326Z] INFO  [16173] - [Application update app-6700-170606_201610@4] : Completed activity. Result:
+  Application update - Command CMD-AppDeploy failed
+[2017-06-06T18:58:02.411Z] INFO  [17587] - [CMD-TailLogs] : Starting activity...
+[2017-06-06T18:58:02.411Z] INFO  [17587] - [CMD-TailLogs/AddonsBefore] : Starting activity...
+[2017-06-06T18:58:02.411Z] INFO  [17587] - [CMD-TailLogs/AddonsBefore] : Completed activity.
+[2017-06-06T18:58:02.411Z] INFO  [17587] - [CMD-TailLogs/TailLogs] : Starting activity...
+[2017-06-06T18:58:02.411Z] INFO  [17587] - [CMD-TailLogs/TailLogs/TailLogs] : Starting activity...
+
+
+
+-------------------------------------
+/var/log/eb-commandprocessor.log
+-------------------------------------
+      c/_cffi_backend.c:4949: error: ‘atype’ undeclared (first use in this function)
+      c/_cffi_backend.c:4962: error: ‘struct funcbuilder_s’ has no member named ‘atypes’
+      c/_cffi_backend.c:4963: error: ‘struct funcbuilder_s’ has no member named ‘atypes’
+      c/_cffi_backend.c:4966: error: ‘cif_description_t’ has no member named ‘exchange_offset_arg’
+      c/_cffi_backend.c:4975: error: ‘cif_description_t’ has no member named ‘exchange_size’
+      c/_cffi_backend.c: In function ‘fb_build_name’:
+      c/_cffi_backend.c:4999: error: ‘struct funcbuilder_s’ has no member named ‘nargs’
+      c/_cffi_backend.c:5011: error: ‘struct funcbuilder_s’ has no member named ‘fct’
+      c/_cffi_backend.c:5014: error: ‘struct funcbuilder_s’ has no member named ‘fct’
+      c/_cffi_backend.c: In function ‘fb_prepare_ctype’:
+      c/_cffi_backend.c:5058: error: ‘struct funcbuilder_s’ has no member named ‘fct’
+      c/_cffi_backend.c:5075: error: ‘struct funcbuilder_s’ has no member named ‘fct’
+      c/_cffi_backend.c: At top level:
+      c/_cffi_backend.c:5095: error: expected declaration specifiers or ‘...’ before ‘ffi_abi’
+      c/_cffi_backend.c: In function ‘fb_prepare_cif’:
+      c/_cffi_backend.c:5122: warning: implicit declaration of function ‘ffi_prep_cif’
+      c/_cffi_backend.c:5122: error: ‘cif_description_t’ has no member named ‘cif’
+      c/_cffi_backend.c:5122: error: ‘fabi’ undeclared (first use in this function)
+      c/_cffi_backend.c:5122: error: ‘struct funcbuilder_s’ has no member named ‘nargs’
+      c/_cffi_backend.c:5123: error: ‘struct funcbuilder_s’ has no member named ‘rtype’
+      c/_cffi_backend.c:5123: error: ‘struct funcbuilder_s’ has no member named ‘atypes’
+      c/_cffi_backend.c:5123: error: ‘FFI_OK’ undeclared (first use in this function)
+      c/_cffi_backend.c: In function ‘new_function_type’:
+      c/_cffi_backend.c:5167: error: too many arguments to function ‘fb_prepare_cif’
+      c/_cffi_backend.c:5181: error: ‘struct funcbuilder_s’ has no member named ‘nargs’
+      c/_cffi_backend.c:5191: error: ‘struct funcbuilder_s’ has no member named ‘nargs’
+      c/_cffi_backend.c:5201: error: ‘struct funcbuilder_s’ has no member named ‘nargs’
+      c/_cffi_backend.c:5204: error: ‘struct funcbuilder_s’ has no member named ‘nargs’
+      c/_cffi_backend.c:5205: error: ‘struct funcbuilder_s’ has no member named ‘nargs’
+      c/_cffi_backend.c:5207: error: ‘struct funcbuilder_s’ has no member named ‘nargs’
+      c/_cffi_backend.c: In function ‘b_new_function_type’:
+      c/_cffi_backend.c:5218: error: ‘FFI_DEFAULT_ABI’ undeclared (first use in this function)
+      c/_cffi_backend.c: In function ‘convert_from_object_fficallback’:
+      c/_cffi_backend.c:5238: error: ‘ffi_arg’ undeclared (first use in this function)
+      c/_cffi_backend.c: At top level:
+      c/_cffi_backend.c:5420: error: expected ‘)’ before ‘*’ token
+      c/_cffi_backend.c: In function ‘prepare_callback_info_tuple’:
+      c/_cffi_backend.c:5462: error: ‘ffi_arg’ undeclared (first use in this function)
+      c/_cffi_backend.c: In function ‘b_callback’:
+      c/_cffi_backend.c:5495: error: ‘ffi_closure’ undeclared (first use in this function)
+      c/_cffi_backend.c:5495: error: ‘closure’ undeclared (first use in this function)
+      c/_cffi_backend.c:5505: warning: implicit declaration of function ‘cffi_closure_alloc’
+      c/_cffi_backend.c:5523: warning: implicit declaration of function ‘ffi_prep_closure’
+      c/_cffi_backend.c:5523: error: ‘cif_description_t’ has no member named ‘cif’
+      c/_cffi_backend.c:5524: error: ‘invoke_callback’ undeclared (first use in this function)
+      c/_cffi_backend.c:5524: error: ‘FFI_OK’ undeclared (first use in this function)
+      In file included from c/cffi1_module.c:3,
+                       from c/_cffi_backend.c:6896:
+      c/realize_c_type.c: In function ‘realize_c_type_or_func’:
+      c/realize_c_type.c:577: error: ‘FFI_DEFAULT_ABI’ undeclared (first use in this function)
+      c/_cffi_backend.c: In function ‘PyInit__cffi_backend’:
+      c/_cffi_backend.c:6988: error: ‘FFI_DEFAULT_ABI’ undeclared (first use in this function)
+      At top level:
+      cc1: warning: unrecognized command line option "-Wno-unused-result"
+      error: command 'gcc' failed with exit status 1
+      
+      ----------------------------------------
+  Command "/opt/python/run/venv/bin/python3.4 -c "import setuptools, tokenize;__file__='/tmp/pip-build-xiunkk2y/cffi/setup.py';exec(compile(getattr(tokenize, 'open', open)(__file__).read().replace('\r\n', '\n'), __file__, 'exec'))" install --record /tmp/pip-f1j9568g-record/install-record.txt --single-version-externally-managed --compile --install-headers /opt/python/run/venv/include/site/python3.4/cffi" failed with error code 1 in /tmp/pip-build-xiunkk2y/cffi
+  You are using pip version 7.1.2, however version 9.0.1 is available.
+  You should consider upgrading via the 'pip install --upgrade pip' command.
+  2017-06-06 18:17:10,316 ERROR    Error installing dependencies: Command '/opt/python/run/venv/bin/pip install -r /opt/python/ondeck/app/requirements.txt' returned non-zero exit status 1
+  Traceback (most recent call last):
+    File "/opt/elasticbeanstalk/hooks/appdeploy/pre/03deploy.py", line 22, in main
+      install_dependencies()
+    File "/opt/elasticbeanstalk/hooks/appdeploy/pre/03deploy.py", line 18, in install_dependencies
+      check_call('%s install -r %s' % (os.path.join(APP_VIRTUAL_ENV, 'bin', 'pip'), requirements_file), shell=True)
+    File "/usr/lib64/python2.7/subprocess.py", line 541, in check_call
+      raise CalledProcessError(retcode, cmd)
+  CalledProcessError: Command '/opt/python/run/venv/bin/pip install -r /opt/python/ondeck/app/requirements.txt' returned non-zero exit status 1 (Executor::NonZeroExitStatus)
+
+
+[2017-06-06T18:17:10.326Z] ERROR [16173] : Command CMD-AppDeploy failed!
+[2017-06-06T18:17:10.327Z] INFO  [16173] : Command processor returning results: 
+{"status":"FAILURE","api_version":"1.0","results":[{"status":"FAILURE","msg":"(TRUNCATED)...)\n  File \"/usr/lib64/python2.7/subprocess.py\", line 541, in check_call\n    raise CalledProcessError(retcode, cmd)\nCalledProcessError: Command '/opt/python/run/venv/bin/pip install -r /opt/python/ondeck/app/requirements.txt' returned non-zero exit status 1. \nHook /opt/elasticbeanstalk/hooks/appdeploy/pre/03deploy.py failed. For more detail, check /var/log/eb-activity.log using console or EB CLI","returncode":1,"events":[{"msg":"Your requirements.txt is invalid. Snapshot your logs for details.","severity":"ERROR","timestamp":1496773030},{"msg":"Error installing dependencies: Command '/opt/python/run/venv/bin/pip install -r /opt/python/ondeck/app/requirements.txt' returned non-zero exit status 1","severity":"SYSTEM","timestamp":1496773030}]}],"truncated":"true"}
+[2017-06-06T18:58:02.405Z] DEBUG [17587] : Reading config file: /etc/elasticbeanstalk/.aws-eb-stack.properties
+[2017-06-06T18:58:02.405Z] DEBUG [17587] : Checking if the command processor should execute...
+[2017-06-06T18:58:02.407Z] DEBUG [17587] : Checking whether the command is applicable to instance (i-011aea2dcc90494a0)..
+[2017-06-06T18:58:02.407Z] INFO  [17587] : Command is applicable to this instance (i-011aea2dcc90494a0)..
+[2017-06-06T18:58:02.407Z] DEBUG [17587] : Checking if the received command stage is valid..
+[2017-06-06T18:58:02.407Z] INFO  [17587] : No stage_num in command. Valid stage..
+[2017-06-06T18:58:02.407Z] INFO  [17587] : Received command CMD-TailLogs: {"execution_data":"{\"aws_access_key_id\":\"ASIAIPIMJZEU2CUBFN6A\",\"signature\":\"lXieGrUDgrjoQKIfiZqSurOPQ9k=\",\"security_token\":\"FQoDYXdzEDQaDCqr4oNNHcfqtzvdQiKpAx+AlbcevfSNJC1SVp3V0epYkbeGPxjMFj4Ix7HmIE9jp2NHyrOQ1dfENlxDwkwdZxuNrq1wdmWC5sYF1bMHPcxLBuFf70Vc80JKrG1EphhrRKarKxs7uvKE1yucS3e50DE3f9tRMalX+SHLmTnmfcLjTCsXOHbsIIB4BWGjPh8TirB6HoWhmEG+Lq+MWN37BeSdlok49xcIp2+RlBT13mmd\\\/6cBf4kt4KjKSBJFStIDZQWxr5JaZf6mkzv\\\/\\\/9O8K0df6G8sBkZ\\\/m9FBv459UmPG1Zx81VvrrWZ6rELZxV5Ov2dmx5ymx98qN3Qj0NE3ouHsQJQf3lgR3Wr76I+j38+fECjm4i3tGhHBphGtcJAqEVZPqHcPG+4Mx36ktwDfb3xIaFT1CdlfLe00aVv1xpWXXJJMlAyIOWfLN2ogLhKLA7PRk6dJHwmvUg2aTsHiilfu0Nc8QOE3xqVUq0pNRWbYnVvYgJUdrAnDLFo4\\\/Wn5UJAHfDZ4nv4DH3Pcw9Cp7XuzUxZg0aOymxUwdjeL\\\/LjO2o4LkrpLlFiTGObE5yhWo6baYpcjKTmUKLj228kF\",\"policy\":\"eyJleHBpcmF0aW9uIjoiMjAxNy0wNi0wNlQxOToyODowMC44MjVaIiwiY29uZGl0aW9ucyI6W1sic3RhcnRzLXdpdGgiLCIkeC1hbXotbWV0YS10aW1lX3N0YW1wIiwiIl0sWyJzdGFydHMtd2l0aCIsIiR4LWFtei1tZXRhLXB1Ymxpc2hfbWVjaGFuaXNtIiwiIl0sWyJzdGFydHMtd2l0aCIsIiRrZXkiLCJyZXNvdXJjZXNcL2Vudmlyb25tZW50c1wvbG9nc1wvIl0sWyJzdGFydHMtd2l0aCIsIiR4LWFtei1tZXRhLWJhdGNoX2lkIiwiIl0sWyJzdGFydHMtd2l0aCIsIiR4LWFtei1tZXRhLWZpbGVfbmFtZSIsIiJdLFsic3RhcnRzLXdpdGgiLCIkeC1hbXotc2VjdXJpdHktdG9rZW4iLCIiXSxbInN0YXJ0cy13aXRoIiwiJENvbnRlbnQtVHlwZSIsIiJdLFsiZXEiLCIkYnVja2V0IiwiZWxhc3RpY2JlYW5zdGFsay1ldS13ZXN0LTEtODUxODkxOTA2Mzg4Il0sWyJlcSIsIiRhY2wiLCJwcml2YXRlIl1dfQ==\"}","instance_ids":["i-011aea2dcc90494a0"],"data":"0fd8d2cc-4aea-11e7-a2b4-b11c0f69885d","command_name":"CMD-TailLogs","api_version":"1.0","resource_name":"AWSEBAutoScalingGroup","request_id":"0fd8d2cc-4aea-11e7-a2b4-b11c0f69885d","command_timeout":"600"}
+[2017-06-06T18:58:02.407Z] INFO  [17587] : Command processor should execute command.
+[2017-06-06T18:58:02.407Z] DEBUG [17587] : Storing current stage..
+[2017-06-06T18:58:02.407Z] DEBUG [17587] : Stage_num does not exist. Not saving null stage. Returning..
+[2017-06-06T18:58:02.407Z] DEBUG [17587] : Reading config file: /etc/elasticbeanstalk/.aws-eb-stack.properties
+[2017-06-06T18:58:02.407Z] DEBUG [17587] : Retrieving metadata for key: AWS::ElasticBeanstalk::Ext||_ContainerConfigFileContent||commands..
+[2017-06-06T18:58:02.408Z] DEBUG [17587] : Retrieving metadata for key: AWS::ElasticBeanstalk::Ext||_API||_Commands..
+[2017-06-06T18:58:02.409Z] INFO  [17587] : Found enabled addons: ["logpublish", "logstreaming"].
+[2017-06-06T18:58:02.410Z] INFO  [17587] : Updating Command definition of addon logpublish.
+[2017-06-06T18:58:02.410Z] INFO  [17587] : Updating Command definition of addon logstreaming.
+[2017-06-06T18:58:02.410Z] DEBUG [17587] : Loaded definition of Command CMD-TailLogs.
+[2017-06-06T18:58:02.410Z] INFO  [17587] : Executing CMD-TailLogs
+[2017-06-06T18:58:02.411Z] INFO  [17587] : Executing command: CMD-TailLogs...
+[2017-06-06T18:58:02.411Z] INFO  [17587] : Executing command CMD-TailLogs activities...
+[2017-06-06T18:58:02.411Z] DEBUG [17587] : Setting environment variables..
+[2017-06-06T18:58:02.411Z] INFO  [17587] : Running AddonsBefore for command CMD-TailLogs...
+[2017-06-06T18:58:02.411Z] DEBUG [17587] : Running stages of Command CMD-TailLogs from stage 0 to stage 0...
+[2017-06-06T18:58:02.411Z] INFO  [17587] : Running stage 0 of command CMD-TailLogs...
+[2017-06-06T18:58:02.411Z] DEBUG [17587] : Loaded 1 actions for stage 0.
+[2017-06-06T18:58:02.411Z] INFO  [17587] : Running 1 of 1 actions: TailLogs...
+
+
+
