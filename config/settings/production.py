@@ -124,12 +124,6 @@ ANYMAIL = {
     'MAILGUN_SENDER_DOMAIN': env('MAILGUN_SENDER_DOMAIN')
 }
 EMAIL_BACKEND = 'anymail.backends.mailgun.MailgunBackend'
-# additional mailgun for TESTING
-EMAIL_HOST = 'smtp.mailgun.com'
-EMAIL_PORT = 587
-EMAIL_HOST_USER = 'postmaster@sandboxc2ee36eeab324d75a89021a41e478c43.mailgun.org'
-EMAIL_HOST_PASSWORD = '2358496126b045aef6ec0beec1448939'
-
 
 # TEMPLATE CONFIGURATION
 # ------------------------------------------------------------------------------
