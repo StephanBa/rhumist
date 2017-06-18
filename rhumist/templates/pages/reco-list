@@ -1,0 +1,136 @@
+<!doctype html>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<link rel="stylesheet" href="styles.css">
+<title>Nos recommandations | Rhumist</title>
+
+<header>
+<img src="" alt="rhumist-logo-welcome">
+</header>
+
+<style>
+	.reco__list__product__image {
+		width: 50%;
+			}
+	.reco__list {
+		justify-content: center;
+		}
+	.reco__list__product__brand {
+
+	}
+	.reco__list__product__name {
+
+	}
+	.reco__list__product__week {
+		
+	}
+
+</style>
+
+<body class="body__background">
+	<div>
+		<h3>Nos recommandations</h3>
+	</div>
+
+	<div>
+		Filtrer par:
+		<div> date </div>
+		<div> marque </div>
+	</div>
+
+	<div class="reco__list">
+		<ul>
+			<li>
+				<div>
+				<div ><img class="reco__list__product__image" src="http://media.allmysms.com/manager/upload/image/sbabou//2480985034256292.jpg" alt="A1710 | Rhum Hors d'Age"></div>
+				<div class="reco__list__product__brand">A1710</div>
+				<div class="reco__list__product__name">Rhum Hors d'Age</div>
+				<div class="reco__list__product__week">Semaine 23 - 2017</div>
+				</div>
+			</li>
+			<li>
+				<div>
+				<div class="reco__list__product__image"><img src="http://media.allmysms.com/manager/upload/image/sbabou//2480984181970104.jpg" alt="Plantation | Rhum Vieux"></div>
+				<div class="reco__list__product__brand">Plantation</div>
+				<div class="reco__list__product__name">Rhum Vieux</div>
+				<div class="reco__list__product__week">Semaine 22 - 2017</div>
+				</div>
+			</li>
+			<li>
+				<div>
+				<div class="reco__list__product__image"><img src="#"></div>
+				<div class="reco__list__product__brand">#</div>
+				<div class="reco__list__product__name"></div>
+				<div class="reco__list__product__week">Semaine 21 - 2017</div>
+				</div>
+			</li>
+			<li>
+				<div>
+				<div class="reco__list__product__image"><img src="http://media.allmysms.com/manager/upload/image/sbabou//2480974452545382.jpg" alt="Pampero | Rhum Vieux - vieilli en fûts de Bourbon"></div>
+				<div class="reco__list__product__brand">Pampero</div>
+				<div class="reco__list__product__name">Rhum Vieux - vieilli en fûts de Bourbon</div>
+				<div class="reco__list__product__week">Semaine 20 - 2017</div>
+				</div>
+			</li>
+			<li>
+				<div>
+				<div class="reco__list__product__image"><img src="http://media.allmysms.com/manager/upload/image/sbabou//2480973239900190.jpg" alt="Neisson | Rhum Très Vieux"></div>
+				<div class="reco__list__product__brand">Neisson</div>
+				<div class="reco__list__product__name">Rhum Très Vieux</div>
+				<div class="reco__list__product__week">Semaine 19 - 2017</div>
+				</div>
+			</li>
+			<li>
+				<div>
+				<div class="reco__list__product__image"><img src="http://media.allmysms.com/manager/upload/image/sbabou//2480972623385076.jpg"></div>
+				<div class="reco__list__product__brand">Dillon</div>
+				<div class="reco__list__product__name">Rhum Très Vieux - Millésime 1998</div>
+				<div class="reco__list__product__week">Semaine 18 - 2017</div>
+				</div>
+			</li>
+			<li>
+				<div>
+				<div class="reco__list__product__image"><img src="http://media.allmysms.com/manager/upload/image/sbabou//2480962903594206.jpg" alt="Nine Leaves | Rhum Vieux"></div>
+				<div class="reco__list__product__brand">Nine Leaves</div>
+				<div class="reco__list__product__name">Rhum Vieux </div>
+				<div class="reco__list__product__week">Semaine 17 - 2017</div>
+				</div>
+			</li>
+			<li>
+				<div>
+				<div class="reco__list__product__image"><img src="#" alt="Flor de Caña | Rhum Vieux d'Assemblage - 4 ans"></div>
+				<div class="reco__list__product__brand">Flor de Caña</div>
+				<div class="reco__list__product__name">Rhum Vieux d'Assemblage - 4 ans</div>
+				<div class="reco__list__product__week">Semaine 16 - 2017</div>
+				</div>
+			</li>
+			<li>
+				<div>
+				<div class="reco__list__product__image"><img src="http://media.allmysms.com/manager/upload/image/sbabou//2480961307143996.jpg" alt="Barbancourt | Rhum Vieux - 4 ans "></div>
+				<div class="reco__list__product__brand">Barbancourt</div>
+				<div class="reco__list__product__name">Rhum Vieux - 4 ans</div>
+				<div class="reco__list__product__week">Semaine 15 - 2017</div>
+				</div>
+			</li>
+			<li>
+				<div>
+				<div class="reco__list__product__image"><img src="http://media.allmysms.com/manager/upload/image/sbabou//2480960322180168.jpg" alt="Brugal | Rhum Très Vieux d'Assemblage - 3 à 8 ans"></div>
+				<div class="reco__list__product__brand">Brugal</div>
+				<div class="reco__list__product__name">Rhum Très Vieux d'Assemblage - 3 à 8 ans</div>
+				<div class="reco__list__product__week">Semaine 14 - 2017</div>
+				</div>
+			</li>
+			<li>
+				<div>
+				<div class="reco__list__product__image"><img src="http://media.allmysms.com/manager/upload/image/sbabou//2480959472149923.jpg" alt="Trois Rivieres | Rhum Vieux 3 ans"></div>
+				<div class="reco__list__product__brand">Trois Rivières</div>
+				<div class="reco__list__product__name">Rhum Vieux - 3 ans</div>
+				<div class="reco__list__product__week">Semaine 13 - 2017</div>
+				</div>
+			</li>
+		</ul>
+	</div>
+</body>
+
+<footer>
+</footer>
