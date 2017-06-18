@@ -1,0 +1,18 @@
+<!doctype html>
+<meta charset='utf-8'>
+<title>Installer l'application</title>
+<meta name='viewport' content='width=device-width,initial-scale=1'>
+<meta name='theme-color' content='orange'>
+<!-- External Files loaded from the other tabs -->
+<link rel='manifest' href='manifest.json'>
+<link rel='stylesheet' href='styles.css'>
+<script src='script.js'></script>
+<script src='aframe.js'></script>
+<header> </header>
+<body class="add__icon__screen">
+	<main class="add__icon__main">
+		<p class="add__icon__header">Sélectionnez … puis ‘Ajouter à l'écran d’accueil”. <br> Rajoutez un raccourci de l’app sur votre écran d’accueil!</p>
+		<h1 class="add__icon__body">Installez cette application</h1>
+		<p class="add__icon__footer">Vous pouvez installer un raccourci sur votre écran d’accueil pour accéder directement au contenu de Rhumist.<br>Plus rapide, plus pratique: mieux en somme.</p>
+	</main>	
+</body>
