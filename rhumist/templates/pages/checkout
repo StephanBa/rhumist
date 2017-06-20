@@ -1,0 +1,60 @@
+<!doctype html>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<link rel="stylesheet" href="styles.css">
+<title>Votre Panier | Rhumist</title>
+<header>
+    <ul class="header__menu__bar">
+        <li class="logo__top__screen">Rhumist</li>
+    </ul>
+    <div> <a href="menu.html">Menu Burger Logo</a> </div>
+<body class="body__background">
+	<main>
+		<div class="cart__container">
+			<div class="cart_header">
+				<h3>Votre commande</h3>
+			</div>
+			<div class="cart__order">
+				<table class="summary__items__cart__product"
+					<tbody class="cart__item">
+						<tr class="summary__item__icon"> #
+						</tr>
+						<tr class="summary__item_quantity"> #
+						</tr>
+						<tr class="summary__item__sign"> # 
+						</tr>
+						<tr class="summary__item_icon"> #
+						</tr>
+						<tr class="summary__item__name"> #
+						</tr>
+						<tr class="summary__item_price"> #
+						</tr>
+					</tbody>
+				</table>
+			</div>
+			<div class="cart__footer">
+				<div class="cart__order__subtotal-container">
+					<div class="cart__order__subtotal"> Sous-Total
+						<span class="cart__order__subtotal-price"> # </span>
+					</div>
+					<div class="cart__order__delivery"> Frais de livraison
+						<span class="cart__order__delivery-price"> # </span>
+					</div>
+					<div class="cart__order-total-container"> Total 
+						<em>(TVA Incl.)</em>
+						<span class="cart__order__delivery-price"> # </span>
+					</div>
+				</div>
+				<div class="cart__order__checkout_button_container">
+					<button class="button__checkout">
+					Commander
+					</button>
+				</div>
+			</div>
+			<div class="delivery__address">Delivery Address
+			</div>
+			<div class="payment__method"> Payment Method : Square
+			</div>
+		</div>
+	</main>
+</body>
