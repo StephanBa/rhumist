@@ -1,0 +1,30 @@
+<!doctype html>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<link rel="stylesheet" href="styles.css">
+<title>Bienvenue | Rhumist</title>
+
+<style>
+.welcome-logo-title {
+        background-color: black;
+        font:hind; 
+        width:100%; 
+        text-align:center; 
+        color:white;
+        font-size:xx-large;
+    }
+.welcome-background-screen {
+        background-color: black;
+}
+
+</style>
+
+<header class="welcome-logo-title">
+	<h1>rhumist</h1>
+	<h4>Appréciez le rhum simplement</h4>
+</header>
+<body>
+	<main class="welcome-background-screen">
+	    
+	</main>
+</body>
