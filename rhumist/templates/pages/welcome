@@ -6,25 +6,68 @@
 
 <style>
 .welcome-logo-title {
-        background-color: black;
         font:hind; 
         width:100%; 
         text-align:center; 
         color:white;
         font-size:xx-large;
+        background: linear-gradient(to bottom, rgba(0,0,0,0.65) 0%,rgba(0,0,0,0) 100%);
+        padding: 0px;
+        margin: 0px;
+        border-collapse: collapse;
     }
 .welcome-background-screen {
         background-color: black;
 }
 
+.welcome__h1 {
+		padding: 0px;
+		padding-top: 10%;
+        margin: 0px;
+        border-collapse: collapse;
+}
+.welcome__footer {
+		position: absolute; 
+		bottom: 0;
+		left: 0;
+		right: 0;
+}
+.welcome__footer__ul {
+		padding: 0;
+		display: flex;
+        flex-direction: row;
+        list-style: none;
+        font-size: x-large;
+        font-weight: bold;
+}
+.welcome__footer__li__left {
+		color: white;
+		margin:10%;
+		float: left;
+		flex-grow: 1;
+		text-align: center;
+}
+.welcome__footer__li__right {
+		color: white;
+		margin:10%;
+		float: right;
+		flex-grow: 1;
+		text-align: center;
+}
 </style>
 
 <header class="welcome-logo-title">
-	<h1>rhumist</h1>
+	<h1 class="welcome__h1">rhumist</h1>
 	<h4>Appréciez le rhum simplement</h4>
 </header>
-<body>
-	<main class="welcome-background-screen">
+<body class="welcome__background">
+	<main class="">
 	    
 	</main>
 </body>
+<footer class="welcome__footer">
+	<ul class="welcome__footer__ul">
+		<li class="welcome__footer__li__left"><h4>Login</h4></li>
+		<li class="welcome__footer__li__right"><h4>Signup</h4></li>
+	</ul>
+</footer>
